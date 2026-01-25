@@ -1,17 +1,17 @@
-# Core AI Framework
-phidata
+# Web Framework
+streamlit==1.37.0
+
+# Agent Framework
+phidata[all]
 
 # LLM Provider
-groq
+groq-sdk
 
 # Financial Data
 yfinance==0.2.40
 
 # Web Search
 duckduckgo-search==6.1.7
-
-# Web Framework
-streamlit==1.37.0
 
 # Environment Management
 python-dotenv==1.0.1
@@ -23,3 +23,4 @@ numpy==1.26.4
 # Utilities
 packaging==24.1
 requests==2.32.3
+
