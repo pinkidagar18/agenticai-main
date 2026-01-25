@@ -5,13 +5,13 @@ streamlit==1.37.0
 phidata[all]
 
 # LLM Provider
-groq-sdk
-
-# Financial Data
-yfinance==0.2.40
+groq
 
 # Web Search
 duckduckgo-search==6.1.7
+
+# Financial Data
+yfinance==0.2.40
 
 # Environment Management
 python-dotenv==1.0.1
@@ -21,6 +21,7 @@ pandas==2.2.2
 numpy==1.26.4
 
 # Utilities
-packaging==24.1
 requests==2.32.3
+packa
+
 
