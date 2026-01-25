@@ -1,5 +1,6 @@
 import openai
-from phi.agent import Agent
+from phidata.agent import Agent
+
 import phi.api
 from phi.model.groq import Groq
 from phi.model.openai import OpenAIChat
